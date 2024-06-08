@@ -114,10 +114,10 @@
 5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=suhail).  `FIXED! ✔️`***
 6.  ***Deploy on [`Replit`](https://suhail-web01.vercel.app/deploy?platform=repl). ([Tutorial](https://youtu.be/hPXU9OjMryQ) )***
 7.  ***Deploy on [`Railway`](https://suhail-web01.vercel.app/deploy?platform=railway). ([Tutorial](https://youtu.be/iGVdsK4qmcc) )***
-8.  ***Deploy on [`Koyeb`](https://suhail-web01.vercel.app/deploy?platform=koyeb)***
-9. ***Deploy on [`Glitch`](https://suhail-web01.vercel.app/deploy?platform=glitch)***
+8.  ***Deploy on [`Koyeb`](https://charles6423-web01.vercel.app/deploy?platform=koyeb)***
+9. ***Deploy on [`Glitch`](https://charles-web01.vercel.app/deploy?platform=glitch)***
 10. ***Deploy on [`RENDER`](https://suhail-web01.vercel.app/deploy?on=render)***
-10. ***Get [`More Plugins`](https://github.com/SuhailTechInfo/Suhail-Md-Media)***
+10. ***Get [`More Plugins`](https://github.com/charlesTechInfo/charles6423-Media)***
 ##
 
  <details close>
@@ -135,7 +135,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then create an [`+issue`](https://github.com/SuhailTechInfo/Suhail-Md/issues/new) Or ask anything here [`+Q&A`](https://github.com/SuhailTechInfo/Suhail-Md/discussions/new?category=q-a)!
+- If any problem, then create an [`+issue`](https://github.com/CharlesTechInfo/charles6423/issues/new) Or ask anything here [`+Q&A`](https://github.com/CharlesTechInfo/charles6423/discussions/new?category=q-a)!
 
 
 
@@ -145,10 +145,10 @@
    
 ## 
 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Charles is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
-- *Use Suhail-Md at your own risk by keeping this warning in mind.*
+- *Use Charles at your own risk by keeping this warning in mind.*
 
 
 
-## NOTE: SUHAIL-MD SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
+## NOTE: CHARLES 6423 SCRIPT IS NOT OPENLY ALLOWED TO USED IN ANY OF YOUR PROJECTS
